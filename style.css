@@ -635,6 +635,21 @@ section .title::after {
     background: none;
 }
 
+.text1{
+    font-size: 17px;
+    margin-top: 20px;
+    align-items: center;
+    position: absolute;
+    font-weight: bold;
+    margin-left: -30px;
+}
+.para{
+    margin-top: 60px;
+}
+.Home{
+    align-items: center;
+
+}
 /* Footer Section Styling */
 footer {
     background: #111;
